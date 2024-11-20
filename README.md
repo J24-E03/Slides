@@ -1,6 +1,6 @@
  <table>
         <tr>
-            <th>Week #</th>
+            <th>Week Number</th>
             <th>Link</th>
         </tr>
         <tr>
