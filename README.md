@@ -41,7 +41,7 @@
         </tr>
         <tr>
             <td>Week 10</td>
-            <td></td>
+            <td><a href="https://docs.google.com/presentation/d/1tFyy6n-LtdJ8Q-lUpnx-udM6Ncx6v4QaesllNPhQ3Vg/edit?usp=sharing">Link</a></td>
         </tr>
 
         
