@@ -47,6 +47,15 @@
             <td>Week 11</td>
             <td>Project Week</td>
         </tr>
+        <tr>
+            <td>Week 12</td>
+            <td>Finish Project Week</td>
+        </tr>
+        <tr>
+            <td>Week 13</td>
+            <td><a href="https://docs.google.com/presentation/d/17w7gR1IYUy6Q8UA9tywm2b_Rthzg8yKuoYDoAQVj_vM/edit?usp=sharing">Link</a></td>
+        </tr>
+             
 
 
         
